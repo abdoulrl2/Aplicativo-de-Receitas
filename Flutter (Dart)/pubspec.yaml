@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^5.1.0
+  firebase_core: ^2.7.0
+  flutter_local_notifications: ^14.0.0
